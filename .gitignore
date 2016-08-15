@@ -5,6 +5,8 @@
 script
 script/*
 script/conf/*
+script/list/*
 script/net/*
 script/test/*
+script/usb/*
 script/utils/*
