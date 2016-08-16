@@ -1,12 +1,26 @@
-# First exclude everything
+# Ignore everything
 *
-# then include below
+
+# But not these files
 !/.gitignore
-script
-script/*
-script/conf/*
-script/list/*
-script/net/*
-script/test/*
-script/usb/*
-script/utils/*
+!*.sh
+!/conf/
+!/conf/*
+
+!/gitscr/
+!/gitscr/*
+
+!/list/*
+
+!/net/
+!/net/*
+
+!/usb/
+!/usb/*
+
+!/util/
+!/util/*
+# etc...
+
+# ...even if they are subdirectories
+!*/

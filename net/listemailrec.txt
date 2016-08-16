@@ -1,0 +1,11 @@
+[desktop]
+pati.saham@gmail.com
+acc4itc@gmail.com
+#shiverwind.frost@gmail.com
+
+[server]
+pati.saham@gmail.com
+itcserv.notif@gmail.com
+william@itcfinance.com
+
+[end]

@@ -1,0 +1,7 @@
+/mnt/monthly/bck/act
+/mnt/monthly/bck/db/55
+/mnt/monthly/bck/db/59
+/mnt/monthly/bck/db/198
+/mnt/monthly/bck/img
+/mnt/monthly/bck/svn
+/mnt/monthly/bck/jav
